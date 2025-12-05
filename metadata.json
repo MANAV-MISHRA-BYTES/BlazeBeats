@@ -1,0 +1,5 @@
+{
+  "name": "BlazeBeats",
+  "description": "A fiery, dynamic song recommender powered by Gemini. Discover top hits from various eras, genres, and trends with a bold, fluid interface.",
+  "requestFramePermissions": []
+}
